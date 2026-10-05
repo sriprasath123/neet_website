@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- 1. Homepage -->
+    <url>
+        <loc>https://www.galenfortacademy.in/</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 2. NEET Online Course Core Page -->
+    <url>
+        <loc>https://www.galenfortacademy.in/neet-online-course.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <!-- 3. IIT-JEE Online Course Core Page -->
+    <url>
+        <loc>https://www.galenfortacademy.in/jee-online-course.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.95</priority>
+    </url>
+
+    <!-- 4. NEET Coaching Overview Page -->
+    <url>
+        <loc>https://www.galenfortacademy.in/neet-coaching.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <!-- 5. NEET Class 11 Online Coaching -->
+    <url>
+        <loc>https://www.galenfortacademy.in/neet/online-coaching-class-11/</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <!-- 6. NEET Class 12 Online Coaching -->
+    <url>
+        <loc>https://www.galenfortacademy.in/neet/online-coaching-class-12/</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <!-- 7. JEE Class 11 Online Coaching -->
+    <url>
+        <loc>https://www.galenfortacademy.in/jee/online-coaching-class-11/</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <!-- 8. JEE Class 12 Online Coaching -->
+    <url>
+        <loc>https://www.galenfortacademy.in/jee/online-coaching-class-12/</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.90</priority>
+    </url>
+
+    <!-- 9. JEE Online Course Hub -->
+    <url>
+        <loc>https://www.galenfortacademy.in/jee-online-course/</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- 10. Admission Enquiry Page -->
+    <url>
+        <loc>https://www.galenfortacademy.in/enquiry.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- 11. About Us -->
+    <url>
+        <loc>https://www.galenfortacademy.in/about.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- 12. Contact Us -->
+    <url>
+        <loc>https://www.galenfortacademy.in/contact.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- 13. FAQ Page -->
+    <url>
+        <loc>https://www.galenfortacademy.in/faq.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- 14. Blog Hub -->
+    <url>
+        <loc>https://www.galenfortacademy.in/blog.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.70</priority>
+    </url>
+
+    <!-- 15. Blog Details Article -->
+    <url>
+        <loc>https://www.galenfortacademy.in/blog-details.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.65</priority>
+    </url>
+
+
+    <!-- 16. Privacy Policy -->
+    <url>
+        <loc>https://www.galenfortacademy.in/privacy-policy.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+
+    <!-- 17. Terms & Conditions -->
+    <url>
+        <loc>https://www.galenfortacademy.in/terms-and-conditions.html</loc>
+        <lastmod>2026-10-03</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+</urlset>

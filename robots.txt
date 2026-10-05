@@ -1,0 +1,25 @@
+# Robots.txt for Galenfort Academy
+# Official Website: https://www.galenfortacademy.in/
+
+User-agent: *
+Allow: /
+
+# Disallow sensitive / internal assets
+Disallow: /assets/fonts/
+Disallow: /.git/
+
+# Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/img/
+
+User-agent: Bingbot
+Allow: /
+
+# Host Specification
+Host: https://www.galenfortacademy.in
+
+# XML Sitemap
+Sitemap: https://www.galenfortacademy.in/sitemap.xml
